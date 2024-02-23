@@ -17,7 +17,7 @@
  * 
  */
 
-package cognizant;
+package javacore;
 
 import java.util.Scanner;
 
